@@ -6,3 +6,5 @@ class AeraConfig(AppConfig):
     name = "aera"
     verbose_name = "ÆRA"
     is_modular = True
+    root_url = "/AERA"
+    icon = "⚙"
